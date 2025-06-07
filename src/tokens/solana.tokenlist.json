@@ -184615,6 +184615,19 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EE1FYzgzTEo7cLYbvBXjzqNbneq5VsHj5eyjutQWxRjq",
+      "symbol": "ISB",
+      "name": "iSmartBonus",
+      "decimals": 9,
+      "logoURI": "https://ismartbonus.com/wp-content/uploads/2025/05/logo1.png",
+      "tags": ["utility-token", "ismartbonus"],
+      "extensions": {
+        "website": "https://ismartbonus.com",
+        "description": "ISB Loyalty Token for iSmartBonus Bonus System"
+      }
     }
   ],
   "version": {
